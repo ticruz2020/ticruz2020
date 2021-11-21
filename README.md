@@ -1,4 +1,4 @@
-## Good morning, Desert Rose! 👋
+## Good morning, Earthlings! 👋
 ---
 
 #### Let me wake up first...
