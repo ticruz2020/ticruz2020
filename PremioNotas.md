@@ -1,4 +1,4 @@
-#Prémios para Boas Notas:
+# Prémios (EUR) para Boas Notas:
 
 | Notas | Análise Real I & II | Algebra Linear |
 |:-----:|:-------------------:|:--------------:|
